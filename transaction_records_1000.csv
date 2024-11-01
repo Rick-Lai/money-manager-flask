@@ -1,0 +1,1001 @@
+﻿transaction_id,transaction_type,category,amount,transaction_date,notes
+1,支出,行,8270,2024-09-29,
+2,收入,住,7101,2024-08-01,
+3,支出,行,310,2024-09-22,Sample note for transaction ID 3
+4,支出,衣,8020,2024-03-16,
+5,支出,住,7247,2024-03-27,Sample note for transaction ID 5
+6,收入,行,2106,2024-03-17,
+7,收入,行,1117,2024-08-15,
+8,支出,食,2770,2024-07-26,
+9,收入,住,5856,2023-11-20,Sample note for transaction ID 9
+10,收入,住,8884,2024-08-03,
+11,收入,食,6158,2024-03-15,Sample note for transaction ID 11
+12,支出,行,6291,2023-12-09,Sample note for transaction ID 12
+13,收入,住,261,2024-08-27,Sample note for transaction ID 13
+14,收入,衣,4380,2024-02-17,Sample note for transaction ID 14
+15,收入,行,3523,2024-05-30,
+16,支出,住,7455,2024-02-01,
+17,支出,衣,7648,2024-07-09,
+18,支出,衣,6844,2024-08-28,Sample note for transaction ID 18
+19,支出,行,2568,2024-10-01,Sample note for transaction ID 19
+20,支出,衣,2156,2024-01-02,
+21,收入,行,3099,2024-04-20,Sample note for transaction ID 21
+22,支出,衣,8316,2024-06-22,Sample note for transaction ID 22
+23,支出,食,5886,2023-12-21,
+24,收入,食,2259,2024-01-07,Sample note for transaction ID 24
+25,收入,衣,8966,2023-12-24,Sample note for transaction ID 25
+26,收入,行,6562,2024-08-18,Sample note for transaction ID 26
+27,收入,食,7788,2024-03-07,
+28,收入,行,7712,2024-03-27,Sample note for transaction ID 28
+29,收入,行,420,2024-07-29,
+30,收入,行,1858,2024-08-09,Sample note for transaction ID 30
+31,收入,衣,7048,2024-07-13,Sample note for transaction ID 31
+32,收入,衣,8035,2024-03-23,
+33,收入,食,6864,2024-09-03,Sample note for transaction ID 33
+34,收入,住,34,2024-08-08,
+35,支出,食,1118,2024-01-08,Sample note for transaction ID 35
+36,收入,衣,7720,2024-02-02,
+37,收入,行,3537,2024-04-01,
+38,收入,食,7816,2024-10-12,
+39,支出,住,1207,2024-07-29,
+40,收入,住,963,2024-01-24,Sample note for transaction ID 40
+41,收入,食,8017,2024-02-08,
+42,收入,食,1208,2023-12-17,Sample note for transaction ID 42
+43,收入,衣,3875,2024-03-11,Sample note for transaction ID 43
+44,收入,食,392,2023-12-27,
+45,支出,住,7994,2024-08-07,
+46,支出,衣,2565,2024-04-25,
+47,支出,行,5568,2024-06-10,
+48,支出,衣,1733,2024-03-11,
+49,收入,住,9713,2024-03-20,
+50,收入,行,5003,2024-08-21,
+51,收入,衣,816,2024-04-06,Sample note for transaction ID 51
+52,收入,食,7410,2024-01-24,Sample note for transaction ID 52
+53,收入,衣,1180,2024-10-04,
+54,支出,衣,1444,2024-07-22,Sample note for transaction ID 54
+55,支出,住,1060,2024-10-24,Sample note for transaction ID 55
+56,支出,行,7977,2024-08-21,Sample note for transaction ID 56
+57,收入,行,3711,2024-08-13,Sample note for transaction ID 57
+58,收入,行,4400,2024-09-18,
+59,收入,行,8642,2024-02-05,Sample note for transaction ID 59
+60,支出,衣,1750,2024-08-19,
+61,收入,食,5164,2023-12-13,
+62,收入,食,734,2024-01-30,Sample note for transaction ID 62
+63,收入,食,6917,2024-04-22,Sample note for transaction ID 63
+64,支出,行,2501,2024-04-11,Sample note for transaction ID 64
+65,收入,食,7209,2024-03-01,
+66,收入,住,4727,2024-10-10,Sample note for transaction ID 66
+67,收入,食,6624,2024-08-19,Sample note for transaction ID 67
+68,支出,食,1746,2024-06-27,
+69,收入,住,9407,2024-10-24,Sample note for transaction ID 69
+70,收入,住,878,2024-09-25,
+71,支出,食,9205,2023-11-13,Sample note for transaction ID 71
+72,支出,住,6759,2024-01-29,
+73,收入,衣,7902,2023-12-04,
+74,支出,衣,9486,2024-03-07,
+75,支出,行,179,2023-11-13,
+76,支出,行,6619,2023-11-23,
+77,收入,行,956,2023-12-03,Sample note for transaction ID 77
+78,收入,食,6569,2024-05-20,Sample note for transaction ID 78
+79,收入,食,5366,2024-07-26,
+80,收入,行,5044,2024-01-14,
+81,支出,住,2929,2024-06-07,Sample note for transaction ID 81
+82,支出,衣,3740,2024-07-12,Sample note for transaction ID 82
+83,收入,住,5650,2024-07-25,
+84,支出,住,1080,2024-08-20,Sample note for transaction ID 84
+85,支出,行,3741,2024-04-11,Sample note for transaction ID 85
+86,收入,行,1631,2024-07-14,
+87,收入,衣,4356,2023-11-07,Sample note for transaction ID 87
+88,支出,住,5301,2024-07-23,Sample note for transaction ID 88
+89,支出,行,4346,2024-08-29,Sample note for transaction ID 89
+90,支出,衣,5145,2024-04-27,
+91,支出,衣,9966,2024-10-12,Sample note for transaction ID 91
+92,支出,行,245,2023-11-25,
+93,支出,食,6164,2024-02-15,Sample note for transaction ID 93
+94,支出,衣,1312,2024-06-15,Sample note for transaction ID 94
+95,支出,食,3802,2024-01-12,Sample note for transaction ID 95
+96,收入,衣,6693,2024-08-31,
+97,收入,行,9236,2024-06-21,Sample note for transaction ID 97
+98,收入,行,2425,2024-08-26,Sample note for transaction ID 98
+99,支出,衣,6660,2024-05-12,
+100,支出,食,958,2024-06-22,
+101,收入,衣,6385,2024-06-04,
+102,收入,住,6534,2024-06-01,Sample note for transaction ID 102
+103,收入,衣,8879,2023-11-06,Sample note for transaction ID 103
+104,收入,食,4552,2024-02-08,
+105,收入,食,4444,2024-10-08,
+106,收入,行,9750,2024-09-30,Sample note for transaction ID 106
+107,支出,食,8953,2024-05-01,Sample note for transaction ID 107
+108,支出,食,4784,2023-11-27,Sample note for transaction ID 108
+109,收入,住,7226,2024-07-26,Sample note for transaction ID 109
+110,收入,行,1440,2024-05-26,Sample note for transaction ID 110
+111,收入,住,2318,2024-04-04,Sample note for transaction ID 111
+112,支出,行,4172,2023-11-30,
+113,支出,住,3481,2024-08-25,
+114,支出,行,2173,2024-07-11,
+115,支出,衣,9240,2024-01-31,
+116,支出,住,1404,2024-01-10,
+117,收入,住,3575,2024-10-08,Sample note for transaction ID 117
+118,支出,衣,7256,2024-07-29,
+119,支出,住,4162,2024-02-03,Sample note for transaction ID 119
+120,支出,食,2347,2024-05-04,Sample note for transaction ID 120
+121,支出,衣,2485,2024-08-25,
+122,支出,住,3504,2024-08-19,
+123,收入,衣,9716,2024-03-08,
+124,支出,食,4752,2024-07-30,
+125,支出,住,2150,2024-03-08,
+126,收入,衣,9524,2024-08-29,Sample note for transaction ID 126
+127,收入,行,4544,2024-10-13,
+128,收入,行,2590,2023-10-31,Sample note for transaction ID 128
+129,收入,食,1583,2024-04-12,Sample note for transaction ID 129
+130,收入,住,8620,2024-06-29,
+131,支出,衣,9176,2024-05-14,
+132,收入,食,1223,2024-03-21,
+133,收入,住,8096,2024-07-19,
+134,收入,食,1364,2024-06-26,Sample note for transaction ID 134
+135,支出,衣,7240,2024-10-12,Sample note for transaction ID 135
+136,支出,衣,1682,2024-06-22,
+137,收入,住,551,2024-05-27,
+138,收入,衣,3104,2024-03-27,Sample note for transaction ID 138
+139,收入,住,5369,2024-02-22,
+140,收入,行,5201,2024-08-22,
+141,收入,衣,5121,2024-10-19,Sample note for transaction ID 141
+142,支出,食,8918,2023-12-11,Sample note for transaction ID 142
+143,支出,食,5589,2024-02-25,Sample note for transaction ID 143
+144,支出,衣,5731,2023-11-13,
+145,支出,住,6409,2024-09-03,
+146,收入,住,724,2024-02-02,Sample note for transaction ID 146
+147,收入,食,1963,2024-05-04,Sample note for transaction ID 147
+148,收入,住,84,2024-10-17,Sample note for transaction ID 148
+149,收入,住,6540,2024-03-29,Sample note for transaction ID 149
+150,支出,行,6886,2024-04-18,Sample note for transaction ID 150
+151,支出,食,9838,2024-03-29,Sample note for transaction ID 151
+152,收入,住,5961,2024-10-01,
+153,支出,食,9537,2023-10-30,Sample note for transaction ID 153
+154,收入,衣,906,2024-08-14,
+155,收入,衣,5808,2024-07-30,Sample note for transaction ID 155
+156,支出,食,9104,2024-05-23,
+157,支出,食,1631,2024-07-15,
+158,支出,住,9532,2024-08-06,Sample note for transaction ID 158
+159,收入,住,1755,2024-07-03,Sample note for transaction ID 159
+160,收入,行,9831,2024-10-22,
+161,支出,衣,7816,2024-08-18,
+162,支出,住,480,2023-12-18,
+163,收入,衣,3197,2024-05-19,
+164,支出,住,3186,2024-03-06,
+165,收入,食,1684,2024-09-11,Sample note for transaction ID 165
+166,收入,住,9344,2024-03-31,
+167,收入,食,4161,2024-10-16,
+168,收入,衣,9611,2023-12-25,
+169,支出,衣,9150,2023-12-01,
+170,支出,衣,1188,2024-03-10,Sample note for transaction ID 170
+171,支出,行,9245,2024-02-07,Sample note for transaction ID 171
+172,收入,住,429,2024-07-29,
+173,收入,衣,6636,2024-01-09,
+174,收入,行,3447,2023-12-28,Sample note for transaction ID 174
+175,收入,行,3465,2024-09-13,Sample note for transaction ID 175
+176,支出,衣,4158,2024-02-24,Sample note for transaction ID 176
+177,支出,衣,1275,2024-02-26,
+178,收入,衣,8160,2023-12-13,Sample note for transaction ID 178
+179,收入,衣,4312,2024-04-03,
+180,支出,行,4434,2024-07-27,
+181,收入,住,5686,2024-08-26,Sample note for transaction ID 181
+182,收入,住,2459,2024-08-13,
+183,支出,行,8098,2023-12-24,
+184,支出,衣,9581,2024-04-09,Sample note for transaction ID 184
+185,收入,住,2541,2024-01-03,Sample note for transaction ID 185
+186,收入,衣,3174,2023-11-01,Sample note for transaction ID 186
+187,收入,食,4278,2024-05-01,Sample note for transaction ID 187
+188,收入,行,6077,2024-04-15,Sample note for transaction ID 188
+189,收入,住,3512,2024-04-24,
+190,支出,衣,2902,2024-08-16,
+191,支出,衣,9968,2024-02-06,Sample note for transaction ID 191
+192,支出,衣,9257,2024-07-09,Sample note for transaction ID 192
+193,支出,行,8953,2024-05-25,Sample note for transaction ID 193
+194,支出,食,9427,2024-08-15,Sample note for transaction ID 194
+195,收入,食,366,2024-05-14,
+196,收入,住,4357,2024-02-05,
+197,支出,食,2441,2024-05-14,Sample note for transaction ID 197
+198,支出,住,1621,2024-04-29,
+199,支出,食,9202,2023-10-30,Sample note for transaction ID 199
+200,收入,衣,875,2024-05-17,
+201,收入,食,367,2024-08-12,Sample note for transaction ID 201
+202,收入,住,9839,2024-06-18,
+203,收入,食,5490,2023-12-07,Sample note for transaction ID 203
+204,收入,住,4939,2023-11-23,
+205,收入,住,772,2023-12-11,Sample note for transaction ID 205
+206,支出,食,2004,2024-09-24,
+207,支出,住,3519,2024-05-03,
+208,收入,衣,5878,2024-07-11,Sample note for transaction ID 208
+209,支出,行,2118,2024-03-25,
+210,收入,食,487,2024-08-13,Sample note for transaction ID 210
+211,支出,衣,3292,2024-06-22,
+212,支出,住,7215,2024-06-29,Sample note for transaction ID 212
+213,收入,行,5455,2024-05-11,
+214,支出,住,6716,2024-05-14,
+215,收入,衣,3514,2024-07-24,
+216,支出,住,4673,2023-11-17,Sample note for transaction ID 216
+217,收入,食,2874,2024-04-16,
+218,支出,住,6878,2024-04-15,
+219,收入,住,3694,2024-04-03,
+220,收入,行,9153,2024-05-12,Sample note for transaction ID 220
+221,收入,衣,994,2023-11-29,Sample note for transaction ID 221
+222,支出,衣,6106,2024-03-31,Sample note for transaction ID 222
+223,收入,住,2276,2024-02-29,Sample note for transaction ID 223
+224,支出,食,2428,2024-01-30,
+225,支出,行,7058,2024-01-28,Sample note for transaction ID 225
+226,收入,食,5449,2023-11-03,Sample note for transaction ID 226
+227,收入,行,3199,2024-07-25,Sample note for transaction ID 227
+228,支出,衣,7615,2023-11-09,Sample note for transaction ID 228
+229,收入,食,8412,2024-02-01,
+230,支出,衣,2406,2024-08-19,
+231,收入,食,6447,2024-06-11,Sample note for transaction ID 231
+232,收入,行,8725,2024-10-07,Sample note for transaction ID 232
+233,支出,衣,5424,2024-03-14,Sample note for transaction ID 233
+234,支出,食,6083,2024-06-16,Sample note for transaction ID 234
+235,支出,衣,1088,2024-05-19,Sample note for transaction ID 235
+236,收入,食,2889,2024-02-21,Sample note for transaction ID 236
+237,收入,食,1080,2024-02-04,
+238,收入,衣,9655,2024-07-24,
+239,支出,住,7141,2024-02-25,Sample note for transaction ID 239
+240,收入,食,1236,2024-05-29,Sample note for transaction ID 240
+241,收入,行,1229,2024-02-04,
+242,支出,住,4287,2024-01-18,
+243,支出,行,9593,2024-04-21,Sample note for transaction ID 243
+244,收入,食,5772,2024-06-03,Sample note for transaction ID 244
+245,支出,衣,9120,2024-10-03,
+246,支出,食,5872,2024-03-26,
+247,收入,食,6415,2024-06-02,Sample note for transaction ID 247
+248,收入,食,8539,2024-03-28,Sample note for transaction ID 248
+249,收入,衣,1333,2024-05-02,
+250,收入,衣,8915,2024-09-19,Sample note for transaction ID 250
+251,收入,食,8943,2024-05-07,Sample note for transaction ID 251
+252,收入,行,4467,2024-01-21,Sample note for transaction ID 252
+253,收入,食,4887,2024-07-06,
+254,支出,食,4617,2024-01-28,Sample note for transaction ID 254
+255,收入,衣,6053,2024-08-15,
+256,收入,住,3437,2024-09-09,
+257,支出,住,2924,2023-12-30,
+258,支出,住,8075,2024-02-25,Sample note for transaction ID 258
+259,支出,衣,9092,2024-03-05,
+260,收入,食,147,2024-09-12,Sample note for transaction ID 260
+261,收入,食,4552,2024-07-17,Sample note for transaction ID 261
+262,支出,食,8323,2024-02-25,Sample note for transaction ID 262
+263,支出,衣,9159,2024-02-09,Sample note for transaction ID 263
+264,收入,食,5345,2024-06-06,
+265,收入,住,4908,2024-06-13,
+266,收入,行,9646,2024-06-09,
+267,收入,食,9161,2023-12-27,
+268,支出,衣,3526,2024-03-25,Sample note for transaction ID 268
+269,收入,住,3860,2024-05-01,Sample note for transaction ID 269
+270,支出,住,6715,2024-05-16,Sample note for transaction ID 270
+271,收入,衣,7115,2024-08-19,Sample note for transaction ID 271
+272,支出,食,6224,2023-12-02,Sample note for transaction ID 272
+273,支出,衣,8010,2024-03-29,
+274,支出,衣,6235,2024-04-18,Sample note for transaction ID 274
+275,支出,食,4592,2023-11-08,Sample note for transaction ID 275
+276,支出,行,5498,2024-05-19,
+277,收入,衣,7725,2023-11-01,
+278,支出,行,1682,2024-01-05,Sample note for transaction ID 278
+279,支出,行,2103,2024-08-10,Sample note for transaction ID 279
+280,支出,衣,8463,2023-12-16,
+281,支出,食,7993,2024-04-09,
+282,支出,食,2716,2023-12-23,Sample note for transaction ID 282
+283,收入,衣,228,2024-03-21,
+284,支出,住,8222,2023-12-19,
+285,收入,行,3977,2024-09-24,
+286,收入,行,8562,2024-07-10,Sample note for transaction ID 286
+287,支出,行,7280,2024-03-09,
+288,支出,住,8988,2023-12-08,Sample note for transaction ID 288
+289,支出,住,4884,2024-02-03,Sample note for transaction ID 289
+290,收入,衣,7337,2024-07-19,
+291,支出,行,707,2024-06-28,
+292,支出,衣,8146,2024-06-09,
+293,支出,行,6193,2023-12-16,Sample note for transaction ID 293
+294,收入,衣,4377,2024-05-07,Sample note for transaction ID 294
+295,支出,食,8526,2023-11-08,Sample note for transaction ID 295
+296,支出,行,6683,2024-02-22,
+297,支出,衣,5174,2024-09-06,
+298,收入,衣,3401,2024-03-11,
+299,支出,衣,9358,2023-11-29,
+300,支出,衣,5019,2024-06-05,
+301,收入,食,365,2023-11-12,
+302,支出,住,7317,2024-06-16,
+303,收入,衣,1580,2024-08-18,Sample note for transaction ID 303
+304,收入,行,4199,2024-06-07,Sample note for transaction ID 304
+305,收入,住,9419,2023-11-20,Sample note for transaction ID 305
+306,支出,住,5581,2023-12-15,
+307,收入,食,4577,2024-04-28,Sample note for transaction ID 307
+308,支出,衣,444,2024-09-01,Sample note for transaction ID 308
+309,支出,行,7819,2024-03-25,Sample note for transaction ID 309
+310,支出,住,4761,2024-05-10,
+311,支出,衣,3762,2024-05-25,
+312,收入,衣,5553,2024-09-27,
+313,收入,住,878,2024-02-21,Sample note for transaction ID 313
+314,收入,行,8141,2024-01-16,Sample note for transaction ID 314
+315,收入,住,4775,2024-10-08,
+316,收入,行,3244,2024-07-22,Sample note for transaction ID 316
+317,支出,住,5172,2024-04-16,
+318,收入,行,485,2024-03-18,Sample note for transaction ID 318
+319,支出,住,2287,2024-02-17,Sample note for transaction ID 319
+320,收入,住,5139,2024-07-21,Sample note for transaction ID 320
+321,收入,住,7769,2023-10-27,Sample note for transaction ID 321
+322,收入,衣,1376,2024-02-10,
+323,收入,住,5527,2024-01-03,Sample note for transaction ID 323
+324,支出,住,6477,2024-09-19,
+325,收入,衣,2539,2024-04-18,Sample note for transaction ID 325
+326,支出,衣,9798,2024-04-10,
+327,支出,住,3777,2024-01-30,
+328,支出,住,4833,2024-09-12,
+329,收入,食,3247,2024-04-14,Sample note for transaction ID 329
+330,收入,衣,176,2024-08-10,Sample note for transaction ID 330
+331,支出,衣,8192,2024-10-14,Sample note for transaction ID 331
+332,收入,食,5585,2024-07-05,Sample note for transaction ID 332
+333,支出,行,5119,2023-10-27,Sample note for transaction ID 333
+334,支出,食,9201,2023-11-09,Sample note for transaction ID 334
+335,支出,行,6219,2023-11-05,Sample note for transaction ID 335
+336,支出,食,5304,2024-03-12,Sample note for transaction ID 336
+337,支出,行,1623,2023-11-14,Sample note for transaction ID 337
+338,支出,食,4833,2024-04-29,
+339,支出,行,5966,2024-05-17,Sample note for transaction ID 339
+340,收入,衣,7374,2024-01-09,
+341,支出,行,6096,2024-06-02,Sample note for transaction ID 341
+342,支出,行,5559,2024-04-29,
+343,收入,食,762,2024-04-04,Sample note for transaction ID 343
+344,支出,行,8823,2024-01-31,Sample note for transaction ID 344
+345,支出,衣,6734,2024-03-21,
+346,支出,住,4856,2024-07-02,
+347,支出,衣,977,2024-06-23,Sample note for transaction ID 347
+348,支出,衣,4829,2023-12-25,
+349,收入,住,7033,2023-11-15,
+350,支出,衣,2765,2024-10-04,Sample note for transaction ID 350
+351,支出,行,30,2024-10-07,Sample note for transaction ID 351
+352,支出,行,5164,2024-06-21,Sample note for transaction ID 352
+353,支出,住,4294,2023-11-11,Sample note for transaction ID 353
+354,收入,住,3208,2024-05-18,Sample note for transaction ID 354
+355,收入,食,7990,2023-11-09,
+356,收入,住,3689,2024-02-02,Sample note for transaction ID 356
+357,收入,住,7165,2024-09-30,Sample note for transaction ID 357
+358,支出,食,1339,2024-06-16,Sample note for transaction ID 358
+359,收入,食,9929,2024-07-12,
+360,收入,行,6332,2024-02-01,
+361,支出,衣,8440,2023-12-12,
+362,收入,行,317,2024-08-27,
+363,收入,衣,8378,2024-03-08,Sample note for transaction ID 363
+364,收入,食,1440,2024-05-05,
+365,支出,行,9051,2024-08-02,
+366,支出,行,2470,2024-04-03,
+367,支出,食,8977,2024-03-01,Sample note for transaction ID 367
+368,支出,住,4598,2024-06-28,Sample note for transaction ID 368
+369,支出,住,913,2024-01-30,
+370,收入,食,6437,2024-02-10,Sample note for transaction ID 370
+371,收入,衣,4820,2024-03-21,Sample note for transaction ID 371
+372,收入,食,6766,2024-09-04,Sample note for transaction ID 372
+373,收入,行,2175,2024-07-03,
+374,支出,住,3920,2024-09-06,Sample note for transaction ID 374
+375,收入,食,32,2023-11-09,Sample note for transaction ID 375
+376,收入,衣,6007,2024-08-27,Sample note for transaction ID 376
+377,支出,衣,8588,2023-11-01,
+378,支出,食,4121,2024-08-19,
+379,支出,食,8945,2024-03-10,Sample note for transaction ID 379
+380,收入,住,3258,2024-06-03,Sample note for transaction ID 380
+381,收入,行,3756,2024-08-08,Sample note for transaction ID 381
+382,收入,食,8700,2024-02-06,Sample note for transaction ID 382
+383,支出,行,940,2024-10-03,
+384,收入,行,1599,2024-06-16,Sample note for transaction ID 384
+385,支出,行,7284,2024-03-09,
+386,收入,行,8928,2024-10-15,
+387,收入,行,7230,2024-09-29,Sample note for transaction ID 387
+388,收入,行,8587,2023-12-29,Sample note for transaction ID 388
+389,收入,食,4619,2024-05-16,
+390,收入,行,8438,2024-01-31,
+391,收入,住,3882,2024-09-11,
+392,收入,食,1073,2024-07-06,Sample note for transaction ID 392
+393,收入,衣,7640,2024-08-09,Sample note for transaction ID 393
+394,支出,食,3397,2024-09-29,Sample note for transaction ID 394
+395,支出,住,9980,2024-05-14,Sample note for transaction ID 395
+396,支出,行,1462,2024-04-22,Sample note for transaction ID 396
+397,支出,食,8825,2024-02-20,
+398,收入,衣,1451,2024-10-01,
+399,支出,行,3657,2024-07-26,Sample note for transaction ID 399
+400,收入,食,8941,2024-02-08,
+401,支出,住,5302,2024-09-14,Sample note for transaction ID 401
+402,收入,食,2833,2024-01-11,
+403,支出,衣,6969,2024-09-28,Sample note for transaction ID 403
+404,收入,食,1030,2024-03-14,Sample note for transaction ID 404
+405,支出,住,9803,2024-02-11,
+406,支出,衣,6211,2024-10-09,Sample note for transaction ID 406
+407,收入,行,7094,2024-07-05,
+408,支出,住,9701,2024-03-20,
+409,收入,食,4474,2024-08-29,Sample note for transaction ID 409
+410,支出,行,6905,2024-08-03,Sample note for transaction ID 410
+411,支出,衣,4072,2024-08-31,
+412,收入,衣,7650,2024-02-20,Sample note for transaction ID 412
+413,支出,住,1977,2023-10-31,
+414,支出,衣,1949,2023-10-30,
+415,支出,食,1987,2023-12-13,
+416,收入,食,1595,2024-04-28,Sample note for transaction ID 416
+417,支出,衣,5566,2024-07-23,
+418,收入,衣,3160,2024-04-09,Sample note for transaction ID 418
+419,支出,食,8865,2024-06-19,Sample note for transaction ID 419
+420,支出,住,6445,2024-10-02,
+421,支出,行,2632,2024-10-22,
+422,收入,行,6791,2023-11-18,
+423,收入,食,6847,2024-07-26,
+424,支出,住,7298,2024-01-31,
+425,支出,住,23,2024-01-20,
+426,支出,衣,7959,2024-08-25,
+427,支出,食,3508,2024-02-29,Sample note for transaction ID 427
+428,支出,行,6391,2024-06-14,
+429,收入,衣,9469,2024-06-03,
+430,支出,住,7715,2024-04-27,Sample note for transaction ID 430
+431,收入,食,8162,2024-08-31,
+432,收入,住,3209,2024-05-22,
+433,收入,食,8539,2024-04-29,Sample note for transaction ID 433
+434,收入,行,583,2024-05-27,Sample note for transaction ID 434
+435,收入,住,5208,2024-03-03,Sample note for transaction ID 435
+436,收入,衣,9613,2024-10-16,
+437,收入,行,6640,2024-01-29,
+438,支出,住,5679,2023-11-26,Sample note for transaction ID 438
+439,收入,住,809,2024-07-02,Sample note for transaction ID 439
+440,收入,行,8169,2024-06-16,Sample note for transaction ID 440
+441,支出,衣,1864,2024-10-16,Sample note for transaction ID 441
+442,收入,衣,9219,2024-07-24,Sample note for transaction ID 442
+443,支出,衣,7901,2024-08-04,Sample note for transaction ID 443
+444,支出,行,9924,2024-08-09,
+445,支出,食,9181,2024-05-08,
+446,收入,住,6956,2024-05-18,Sample note for transaction ID 446
+447,支出,住,9199,2023-12-19,Sample note for transaction ID 447
+448,支出,行,7418,2024-06-17,
+449,支出,衣,9551,2023-11-20,Sample note for transaction ID 449
+450,收入,行,2761,2024-10-11,Sample note for transaction ID 450
+451,收入,食,6123,2024-03-03,
+452,收入,行,8340,2024-03-24,Sample note for transaction ID 452
+453,收入,行,2205,2024-06-04,
+454,支出,衣,2523,2023-12-06,Sample note for transaction ID 454
+455,收入,食,4271,2024-08-14,
+456,收入,食,92,2023-12-29,Sample note for transaction ID 456
+457,支出,食,130,2024-02-26,
+458,收入,食,2769,2024-08-17,Sample note for transaction ID 458
+459,支出,食,2637,2024-07-27,Sample note for transaction ID 459
+460,支出,衣,1509,2024-03-29,Sample note for transaction ID 460
+461,收入,住,8462,2024-04-04,
+462,收入,食,3594,2023-11-17,
+463,支出,食,3887,2024-10-02,
+464,支出,行,169,2024-07-04,
+465,收入,住,4299,2023-12-27,
+466,收入,衣,7149,2024-05-02,Sample note for transaction ID 466
+467,收入,行,5549,2024-08-07,Sample note for transaction ID 467
+468,收入,食,7371,2024-09-23,Sample note for transaction ID 468
+469,收入,行,4021,2024-10-13,Sample note for transaction ID 469
+470,收入,行,154,2024-06-23,Sample note for transaction ID 470
+471,支出,食,6464,2024-05-11,
+472,收入,衣,1461,2024-06-16,Sample note for transaction ID 472
+473,收入,食,887,2023-11-15,Sample note for transaction ID 473
+474,收入,行,1766,2024-05-18,Sample note for transaction ID 474
+475,支出,行,7272,2024-01-09,Sample note for transaction ID 475
+476,支出,行,8330,2023-12-23,Sample note for transaction ID 476
+477,收入,行,9812,2024-08-18,Sample note for transaction ID 477
+478,支出,食,2962,2024-07-26,
+479,支出,衣,5133,2024-07-03,Sample note for transaction ID 479
+480,收入,食,4720,2024-07-12,
+481,支出,住,8493,2024-04-12,
+482,收入,住,5964,2024-07-25,
+483,支出,衣,2900,2024-03-16,Sample note for transaction ID 483
+484,支出,衣,3992,2024-08-16,
+485,支出,衣,5214,2023-11-21,
+486,收入,住,3382,2024-01-04,Sample note for transaction ID 486
+487,收入,食,2381,2024-10-14,
+488,收入,衣,7996,2023-12-06,Sample note for transaction ID 488
+489,支出,行,4270,2024-09-09,
+490,收入,食,8948,2023-11-26,
+491,收入,食,359,2024-07-19,
+492,支出,食,9452,2024-04-14,Sample note for transaction ID 492
+493,收入,行,1691,2024-05-25,
+494,支出,食,5696,2023-12-22,
+495,支出,衣,3707,2024-09-02,
+496,支出,食,2801,2024-06-30,Sample note for transaction ID 496
+497,收入,住,5394,2024-06-10,Sample note for transaction ID 497
+498,收入,衣,6518,2024-05-31,Sample note for transaction ID 498
+499,支出,住,5999,2024-05-27,Sample note for transaction ID 499
+500,收入,衣,2860,2024-06-22,
+501,支出,衣,555,2023-10-30,
+502,收入,行,3818,2024-03-27,
+503,收入,食,7932,2023-11-26,Sample note for transaction ID 503
+504,支出,住,6967,2024-04-14,Sample note for transaction ID 504
+505,支出,食,9470,2024-05-30,Sample note for transaction ID 505
+506,收入,食,7948,2024-07-30,Sample note for transaction ID 506
+507,支出,住,5575,2024-05-06,Sample note for transaction ID 507
+508,收入,食,8528,2024-03-17,
+509,收入,住,9082,2024-06-08,Sample note for transaction ID 509
+510,收入,食,6810,2024-01-01,
+511,支出,住,5702,2024-09-07,Sample note for transaction ID 511
+512,支出,衣,6855,2024-02-09,Sample note for transaction ID 512
+513,支出,住,7259,2023-11-29,
+514,支出,行,6519,2023-11-02,
+515,收入,住,2868,2024-03-18,
+516,收入,住,4110,2024-08-31,Sample note for transaction ID 516
+517,支出,衣,3758,2024-01-12,
+518,收入,衣,5054,2023-11-29,
+519,支出,食,8265,2024-01-29,Sample note for transaction ID 519
+520,支出,行,4540,2024-04-14,
+521,收入,食,2111,2024-10-01,Sample note for transaction ID 521
+522,收入,衣,7110,2024-04-23,Sample note for transaction ID 522
+523,收入,食,6855,2024-05-25,Sample note for transaction ID 523
+524,支出,行,1047,2024-04-23,Sample note for transaction ID 524
+525,收入,住,1952,2024-07-27,Sample note for transaction ID 525
+526,支出,住,8579,2023-12-02,
+527,收入,住,7784,2024-02-15,
+528,收入,住,8265,2024-08-23,Sample note for transaction ID 528
+529,支出,衣,3536,2024-01-29,
+530,支出,衣,244,2024-04-26,Sample note for transaction ID 530
+531,收入,住,5856,2024-02-05,Sample note for transaction ID 531
+532,收入,行,7392,2024-02-08,Sample note for transaction ID 532
+533,支出,衣,4114,2024-08-11,Sample note for transaction ID 533
+534,支出,住,939,2024-07-15,Sample note for transaction ID 534
+535,支出,衣,7097,2024-01-15,
+536,收入,住,3345,2024-09-17,Sample note for transaction ID 536
+537,支出,食,1682,2024-07-06,Sample note for transaction ID 537
+538,支出,衣,7932,2024-01-24,
+539,收入,行,4034,2023-12-30,Sample note for transaction ID 539
+540,支出,食,1391,2023-11-29,Sample note for transaction ID 540
+541,收入,衣,643,2024-02-20,
+542,收入,食,3409,2024-06-25,Sample note for transaction ID 542
+543,支出,食,3468,2024-03-08,Sample note for transaction ID 543
+544,收入,衣,7970,2024-03-09,Sample note for transaction ID 544
+545,收入,行,5120,2023-10-31,
+546,支出,食,1232,2024-09-17,
+547,收入,食,7925,2023-11-25,
+548,收入,住,3595,2024-04-25,
+549,支出,住,5684,2024-04-22,Sample note for transaction ID 549
+550,支出,住,4661,2024-03-18,Sample note for transaction ID 550
+551,支出,衣,2794,2023-11-21,Sample note for transaction ID 551
+552,支出,食,570,2024-09-02,
+553,支出,行,9510,2024-03-31,Sample note for transaction ID 553
+554,收入,衣,2840,2024-03-20,
+555,支出,衣,9748,2024-07-20,
+556,支出,食,5074,2024-06-22,Sample note for transaction ID 556
+557,收入,衣,4094,2024-08-20,
+558,支出,行,5064,2024-09-29,Sample note for transaction ID 558
+559,支出,食,2282,2024-08-19,Sample note for transaction ID 559
+560,收入,行,6627,2024-06-15,
+561,支出,行,3898,2024-07-04,Sample note for transaction ID 561
+562,支出,衣,2635,2023-10-30,Sample note for transaction ID 562
+563,支出,食,4964,2023-12-25,
+564,支出,行,5038,2023-10-28,Sample note for transaction ID 564
+565,收入,食,7846,2024-06-16,
+566,支出,食,1454,2024-09-30,Sample note for transaction ID 566
+567,支出,住,7297,2023-11-30,Sample note for transaction ID 567
+568,支出,衣,1015,2024-05-20,
+569,收入,行,1710,2024-08-10,
+570,支出,住,4946,2024-06-06,
+571,收入,住,7576,2024-03-24,
+572,支出,食,34,2023-11-14,Sample note for transaction ID 572
+573,收入,住,5863,2024-03-06,Sample note for transaction ID 573
+574,支出,行,9843,2024-07-07,Sample note for transaction ID 574
+575,收入,食,1012,2024-01-18,
+576,收入,衣,4602,2024-04-25,
+577,支出,衣,4621,2024-07-24,Sample note for transaction ID 577
+578,支出,行,7777,2024-07-03,Sample note for transaction ID 578
+579,支出,住,212,2024-09-11,
+580,收入,食,4428,2024-09-05,
+581,收入,住,3444,2024-02-29,Sample note for transaction ID 581
+582,支出,住,9508,2024-03-16,
+583,收入,住,6533,2024-06-13,
+584,收入,住,9206,2024-03-14,
+585,支出,食,7486,2024-03-05,Sample note for transaction ID 585
+586,支出,衣,4155,2024-06-20,
+587,支出,衣,3508,2024-03-18,
+588,支出,住,1344,2024-05-06,
+589,收入,住,1480,2024-08-06,Sample note for transaction ID 589
+590,支出,衣,1582,2024-08-14,
+591,收入,行,5407,2024-03-27,
+592,支出,食,6373,2023-12-10,Sample note for transaction ID 592
+593,支出,行,4440,2024-08-06,
+594,收入,住,7451,2024-03-04,
+595,收入,食,5123,2024-09-25,Sample note for transaction ID 595
+596,支出,行,8088,2024-05-20,
+597,收入,行,3063,2024-01-10,Sample note for transaction ID 597
+598,收入,衣,1859,2024-02-05,
+599,支出,食,3784,2024-08-31,
+600,支出,行,5519,2024-05-13,
+601,收入,衣,1690,2024-02-22,Sample note for transaction ID 601
+602,支出,食,1452,2024-09-11,Sample note for transaction ID 602
+603,收入,衣,3293,2024-02-18,
+604,收入,衣,5949,2023-12-24,
+605,支出,食,2298,2023-12-05,
+606,收入,行,4466,2024-08-15,Sample note for transaction ID 606
+607,收入,行,2054,2024-10-10,Sample note for transaction ID 607
+608,收入,行,1786,2024-06-18,Sample note for transaction ID 608
+609,收入,行,9122,2024-03-02,
+610,支出,行,885,2024-01-19,Sample note for transaction ID 610
+611,收入,衣,1565,2024-02-09,Sample note for transaction ID 611
+612,收入,住,7541,2024-09-27,
+613,收入,住,1693,2024-02-09,Sample note for transaction ID 613
+614,收入,行,4634,2024-05-26,
+615,支出,食,5939,2024-05-16,
+616,支出,食,1352,2024-06-12,Sample note for transaction ID 616
+617,收入,食,4424,2023-10-29,Sample note for transaction ID 617
+618,支出,住,7336,2024-01-20,Sample note for transaction ID 618
+619,支出,住,2268,2024-09-04,Sample note for transaction ID 619
+620,收入,行,1186,2024-04-29,Sample note for transaction ID 620
+621,支出,食,9726,2024-06-15,Sample note for transaction ID 621
+622,支出,衣,5993,2024-09-08,Sample note for transaction ID 622
+623,支出,食,4690,2024-06-18,Sample note for transaction ID 623
+624,支出,食,6056,2024-01-22,Sample note for transaction ID 624
+625,支出,行,4074,2024-03-25,Sample note for transaction ID 625
+626,支出,衣,5288,2024-06-04,Sample note for transaction ID 626
+627,收入,衣,5242,2024-06-30,Sample note for transaction ID 627
+628,支出,食,6592,2024-05-24,
+629,收入,住,9491,2024-05-09,
+630,收入,衣,9903,2024-04-18,
+631,支出,食,8155,2024-04-23,
+632,支出,衣,6452,2024-04-27,
+633,支出,住,8899,2024-07-29,
+634,支出,行,173,2023-11-28,
+635,支出,食,2982,2024-01-29,
+636,收入,住,4203,2024-09-24,Sample note for transaction ID 636
+637,支出,衣,7650,2024-08-28,
+638,收入,衣,6794,2023-12-13,
+639,支出,食,4970,2023-12-02,Sample note for transaction ID 639
+640,收入,食,3827,2024-04-17,
+641,收入,住,1761,2024-07-11,
+642,收入,住,9169,2024-02-23,
+643,收入,食,5435,2024-06-27,Sample note for transaction ID 643
+644,支出,住,814,2024-05-11,
+645,收入,行,3793,2024-05-06,Sample note for transaction ID 645
+646,收入,行,4041,2024-01-23,Sample note for transaction ID 646
+647,收入,衣,6993,2024-04-30,Sample note for transaction ID 647
+648,收入,食,980,2023-11-25,
+649,支出,衣,2719,2023-12-02,Sample note for transaction ID 649
+650,支出,行,876,2024-06-11,
+651,收入,行,7579,2023-12-23,
+652,收入,衣,5059,2024-01-12,
+653,收入,住,8727,2024-10-15,
+654,收入,行,9315,2024-05-31,
+655,支出,食,4981,2024-08-25,
+656,收入,食,5057,2024-08-11,
+657,支出,食,1567,2024-03-15,Sample note for transaction ID 657
+658,收入,住,4590,2023-12-02,Sample note for transaction ID 658
+659,收入,行,1924,2024-05-01,Sample note for transaction ID 659
+660,收入,食,2555,2024-05-20,
+661,支出,行,4968,2024-09-17,
+662,收入,住,8469,2024-04-21,
+663,支出,住,2339,2024-07-19,
+664,收入,住,35,2024-06-04,
+665,支出,食,3388,2024-04-25,
+666,收入,行,6369,2023-11-19,Sample note for transaction ID 666
+667,收入,食,8333,2024-03-04,
+668,支出,住,7812,2023-10-29,
+669,支出,衣,2072,2024-03-23,Sample note for transaction ID 669
+670,支出,衣,9639,2024-08-01,
+671,支出,住,6388,2024-05-31,
+672,支出,住,8883,2024-10-09,Sample note for transaction ID 672
+673,支出,住,4352,2024-07-31,
+674,收入,住,5833,2024-02-22,Sample note for transaction ID 674
+675,收入,食,2768,2024-10-17,Sample note for transaction ID 675
+676,收入,衣,8677,2023-12-23,
+677,收入,衣,5209,2024-05-02,Sample note for transaction ID 677
+678,支出,行,4699,2024-06-07,
+679,支出,食,7154,2024-09-30,
+680,支出,食,2123,2024-07-07,Sample note for transaction ID 680
+681,收入,行,6119,2024-01-29,
+682,收入,食,741,2023-12-10,
+683,收入,行,6928,2024-01-13,
+684,支出,食,3388,2023-12-14,Sample note for transaction ID 684
+685,支出,衣,4039,2023-12-23,
+686,收入,食,7527,2024-02-12,Sample note for transaction ID 686
+687,支出,衣,9738,2024-07-02,Sample note for transaction ID 687
+688,支出,行,5291,2024-10-08,Sample note for transaction ID 688
+689,收入,行,2027,2024-06-12,
+690,收入,住,4820,2024-02-13,Sample note for transaction ID 690
+691,支出,住,6015,2024-03-17,
+692,支出,住,3713,2024-07-03,
+693,收入,行,2572,2024-09-14,Sample note for transaction ID 693
+694,支出,食,1252,2024-08-13,Sample note for transaction ID 694
+695,支出,衣,9367,2024-10-24,
+696,支出,住,6286,2024-06-24,Sample note for transaction ID 696
+697,支出,行,4646,2024-10-15,
+698,支出,食,8254,2024-02-29,
+699,支出,食,6355,2024-10-13,Sample note for transaction ID 699
+700,收入,食,4218,2024-05-12,
+701,收入,行,7803,2024-03-22,Sample note for transaction ID 701
+702,收入,食,1567,2023-11-11,Sample note for transaction ID 702
+703,支出,行,8023,2023-12-04,
+704,支出,食,9051,2024-08-28,
+705,支出,食,4282,2024-03-31,
+706,收入,住,7549,2024-09-24,
+707,支出,食,4837,2024-02-23,Sample note for transaction ID 707
+708,支出,住,6448,2024-02-04,
+709,支出,食,6520,2024-09-22,Sample note for transaction ID 709
+710,支出,住,4976,2024-09-04,
+711,支出,衣,7633,2024-02-23,
+712,收入,衣,6767,2024-06-23,
+713,支出,住,9830,2024-09-17,
+714,收入,食,3529,2024-01-11,Sample note for transaction ID 714
+715,支出,食,7428,2024-02-18,
+716,支出,行,4249,2024-09-29,Sample note for transaction ID 716
+717,支出,行,9060,2024-06-07,Sample note for transaction ID 717
+718,支出,食,9029,2023-12-31,
+719,收入,衣,7043,2024-07-31,Sample note for transaction ID 719
+720,收入,衣,7455,2024-01-20,
+721,收入,行,804,2024-08-27,Sample note for transaction ID 721
+722,支出,食,8267,2024-10-02,
+723,收入,衣,2711,2024-02-20,
+724,支出,食,7266,2023-11-22,
+725,支出,食,551,2023-11-16,
+726,支出,住,8519,2023-12-11,
+727,支出,食,619,2024-03-17,
+728,支出,衣,7618,2024-10-18,
+729,收入,行,9459,2024-02-10,
+730,收入,食,3542,2024-07-13,Sample note for transaction ID 730
+731,支出,食,1236,2023-12-15,
+732,支出,食,6685,2024-04-07,Sample note for transaction ID 732
+733,收入,食,4338,2024-02-25,Sample note for transaction ID 733
+734,支出,行,8112,2024-10-15,
+735,收入,食,5456,2023-11-23,Sample note for transaction ID 735
+736,支出,衣,8114,2024-09-20,
+737,收入,行,2108,2024-06-03,
+738,收入,行,5154,2024-02-22,Sample note for transaction ID 738
+739,收入,食,2724,2023-11-24,
+740,收入,行,4017,2024-05-27,Sample note for transaction ID 740
+741,支出,行,8116,2023-11-04,
+742,支出,食,4571,2024-02-08,Sample note for transaction ID 742
+743,收入,住,1932,2023-12-06,Sample note for transaction ID 743
+744,收入,衣,9461,2024-02-08,
+745,支出,衣,2867,2024-07-28,Sample note for transaction ID 745
+746,收入,行,5430,2024-05-19,Sample note for transaction ID 746
+747,支出,衣,1156,2024-03-01,
+748,收入,衣,66,2024-09-19,Sample note for transaction ID 748
+749,支出,住,202,2024-10-03,
+750,支出,衣,420,2024-05-15,
+751,收入,衣,3090,2023-11-19,
+752,支出,食,2545,2023-12-30,Sample note for transaction ID 752
+753,支出,行,7180,2024-05-30,
+754,收入,衣,7766,2024-10-08,
+755,收入,行,6501,2024-09-30,Sample note for transaction ID 755
+756,收入,住,1726,2024-06-05,
+757,收入,住,4867,2023-12-17,
+758,支出,衣,8126,2024-03-20,
+759,收入,住,2209,2024-08-27,
+760,支出,衣,557,2024-01-11,Sample note for transaction ID 760
+761,支出,行,9517,2023-11-15,
+762,收入,住,8787,2024-07-06,
+763,支出,衣,5771,2024-01-04,
+764,支出,衣,9013,2024-03-18,Sample note for transaction ID 764
+765,收入,住,6309,2024-08-19,
+766,收入,行,5675,2024-03-13,Sample note for transaction ID 766
+767,支出,住,9465,2023-11-25,Sample note for transaction ID 767
+768,收入,衣,192,2024-05-06,Sample note for transaction ID 768
+769,收入,行,7344,2024-08-31,
+770,收入,衣,7960,2024-07-19,
+771,支出,住,6176,2024-05-14,Sample note for transaction ID 771
+772,收入,衣,2151,2024-08-24,
+773,收入,行,6873,2024-04-26,
+774,支出,行,5886,2024-03-04,
+775,支出,行,9774,2023-12-21,
+776,收入,住,225,2024-02-29,Sample note for transaction ID 776
+777,支出,食,4070,2024-02-04,Sample note for transaction ID 777
+778,支出,衣,6395,2024-01-03,
+779,支出,行,8282,2024-01-01,
+780,支出,食,2854,2024-07-13,Sample note for transaction ID 780
+781,支出,行,8571,2024-06-07,Sample note for transaction ID 781
+782,支出,衣,1667,2024-04-02,Sample note for transaction ID 782
+783,收入,行,8285,2024-05-27,Sample note for transaction ID 783
+784,收入,住,5421,2024-09-10,
+785,收入,衣,6679,2024-08-03,
+786,支出,行,6427,2023-12-10,Sample note for transaction ID 786
+787,支出,衣,7382,2024-10-02,Sample note for transaction ID 787
+788,收入,衣,9294,2024-09-10,Sample note for transaction ID 788
+789,收入,衣,9761,2024-09-30,
+790,收入,衣,4724,2023-11-18,
+791,支出,食,582,2023-12-24,Sample note for transaction ID 791
+792,收入,食,6248,2024-07-14,
+793,收入,住,2841,2024-03-29,Sample note for transaction ID 793
+794,收入,行,313,2024-10-24,
+795,支出,行,2689,2024-09-19,Sample note for transaction ID 795
+796,收入,食,7679,2024-06-10,Sample note for transaction ID 796
+797,收入,衣,6821,2024-06-25,
+798,支出,住,9800,2024-05-24,Sample note for transaction ID 798
+799,收入,住,9163,2024-09-06,
+800,支出,衣,6264,2024-02-29,
+801,支出,住,4593,2024-05-02,
+802,收入,住,8200,2024-01-02,
+803,收入,住,2372,2024-07-18,
+804,支出,食,9397,2024-01-12,Sample note for transaction ID 804
+805,收入,衣,3227,2024-07-20,Sample note for transaction ID 805
+806,收入,行,7527,2024-03-17,
+807,支出,衣,9341,2023-10-31,Sample note for transaction ID 807
+808,支出,衣,5955,2024-07-29,Sample note for transaction ID 808
+809,支出,衣,3521,2023-11-19,
+810,收入,住,9989,2024-03-22,Sample note for transaction ID 810
+811,收入,行,9808,2024-08-26,Sample note for transaction ID 811
+812,支出,衣,1853,2024-09-10,Sample note for transaction ID 812
+813,支出,食,1585,2024-09-09,
+814,支出,衣,1715,2024-02-11,Sample note for transaction ID 814
+815,支出,行,3064,2024-07-20,Sample note for transaction ID 815
+816,收入,衣,1242,2023-11-19,
+817,支出,衣,3715,2024-04-11,Sample note for transaction ID 817
+818,支出,住,2335,2024-03-12,
+819,支出,食,526,2023-11-19,
+820,支出,住,6942,2024-06-05,Sample note for transaction ID 820
+821,支出,行,6437,2023-11-20,Sample note for transaction ID 821
+822,支出,衣,6122,2024-03-11,
+823,支出,行,9139,2024-01-30,
+824,支出,行,3745,2024-05-23,
+825,收入,行,5372,2024-05-09,Sample note for transaction ID 825
+826,支出,食,4045,2024-03-22,
+827,支出,住,7545,2024-07-28,
+828,支出,食,2335,2024-05-29,
+829,收入,衣,4568,2024-06-11,
+830,收入,衣,7972,2024-09-21,
+831,支出,住,7072,2024-02-02,
+832,支出,住,960,2024-09-15,Sample note for transaction ID 832
+833,支出,食,859,2023-12-11,Sample note for transaction ID 833
+834,支出,行,9716,2024-10-11,Sample note for transaction ID 834
+835,支出,食,4706,2024-07-14,Sample note for transaction ID 835
+836,支出,衣,6745,2024-02-02,
+837,收入,住,8340,2024-02-05,
+838,支出,住,5087,2024-03-18,
+839,收入,行,6964,2024-08-17,
+840,收入,住,8876,2024-08-27,
+841,支出,衣,997,2024-08-23,Sample note for transaction ID 841
+842,收入,住,6814,2024-03-19,
+843,收入,食,3989,2024-01-02,
+844,收入,衣,2441,2024-10-04,Sample note for transaction ID 844
+845,收入,住,6388,2024-10-20,
+846,支出,衣,4006,2024-05-29,Sample note for transaction ID 846
+847,支出,住,5704,2024-02-15,Sample note for transaction ID 847
+848,收入,行,8280,2024-04-17,
+849,支出,行,5900,2024-10-23,Sample note for transaction ID 849
+850,收入,行,9160,2024-05-30,
+851,收入,住,5550,2023-11-05,Sample note for transaction ID 851
+852,收入,行,4944,2024-02-15,
+853,收入,食,2772,2023-10-30,
+854,支出,食,7083,2024-02-14,
+855,收入,衣,3073,2024-04-26,Sample note for transaction ID 855
+856,支出,住,4576,2024-07-03,Sample note for transaction ID 856
+857,支出,住,7212,2024-09-02,
+858,支出,住,4600,2024-06-12,
+859,支出,住,3082,2024-06-18,Sample note for transaction ID 859
+860,支出,衣,5855,2024-05-11,Sample note for transaction ID 860
+861,收入,衣,6706,2024-04-10,
+862,支出,住,1984,2024-07-18,Sample note for transaction ID 862
+863,收入,衣,1301,2023-11-22,Sample note for transaction ID 863
+864,收入,食,4469,2024-09-12,
+865,收入,住,3104,2024-03-04,
+866,支出,住,9946,2024-07-09,
+867,收入,食,9660,2024-07-18,
+868,支出,衣,4057,2024-07-25,Sample note for transaction ID 868
+869,收入,衣,8328,2024-05-30,
+870,支出,食,8575,2024-09-03,
+871,收入,住,6839,2024-08-26,
+872,收入,住,8920,2024-01-07,Sample note for transaction ID 872
+873,支出,住,644,2024-07-01,
+874,支出,行,3502,2024-07-07,Sample note for transaction ID 874
+875,支出,衣,3381,2024-07-09,
+876,收入,食,3037,2024-10-16,
+877,收入,行,4314,2023-12-01,
+878,收入,行,1552,2024-05-23,
+879,收入,食,7258,2024-03-11,Sample note for transaction ID 879
+880,支出,住,7069,2024-08-06,
+881,支出,食,1812,2024-01-24,
+882,支出,衣,9553,2024-03-23,
+883,支出,住,1491,2024-02-13,
+884,支出,食,7098,2024-07-05,
+885,收入,食,8374,2024-03-22,Sample note for transaction ID 885
+886,支出,食,7589,2024-03-11,Sample note for transaction ID 886
+887,收入,食,5116,2024-05-20,
+888,收入,食,6454,2023-11-27,
+889,收入,住,9855,2024-09-18,
+890,支出,行,6667,2024-10-24,
+891,收入,行,5677,2024-03-09,Sample note for transaction ID 891
+892,支出,食,2600,2024-05-12,Sample note for transaction ID 892
+893,支出,住,4330,2024-08-20,
+894,收入,行,5657,2024-06-13,
+895,支出,住,64,2024-10-22,
+896,支出,行,3010,2024-07-01,
+897,收入,行,1135,2024-07-11,Sample note for transaction ID 897
+898,支出,住,5250,2024-04-18,
+899,支出,衣,7404,2024-06-17,
+900,支出,行,3005,2023-12-16,Sample note for transaction ID 900
+901,收入,衣,9371,2024-06-01,Sample note for transaction ID 901
+902,收入,衣,8428,2023-12-26,Sample note for transaction ID 902
+903,收入,住,7954,2023-12-15,
+904,收入,住,8582,2024-01-26,
+905,支出,衣,5467,2023-12-20,
+906,支出,食,6251,2024-03-06,Sample note for transaction ID 906
+907,收入,行,2289,2024-10-25,Sample note for transaction ID 907
+908,收入,衣,9150,2024-01-25,
+909,收入,住,8572,2024-07-03,
+910,收入,衣,9612,2024-01-06,
+911,收入,住,7780,2024-09-26,Sample note for transaction ID 911
+912,收入,行,5821,2024-03-08,
+913,支出,食,3547,2024-01-15,Sample note for transaction ID 913
+914,支出,住,6325,2024-03-04,Sample note for transaction ID 914
+915,收入,食,1892,2024-05-24,Sample note for transaction ID 915
+916,支出,住,1172,2024-04-07,
+917,支出,衣,9452,2024-10-10,
+918,支出,食,2919,2024-01-11,
+919,支出,行,2756,2024-06-16,Sample note for transaction ID 919
+920,支出,行,6932,2024-09-08,
+921,收入,衣,95,2024-05-05,Sample note for transaction ID 921
+922,收入,住,7780,2024-09-27,Sample note for transaction ID 922
+923,支出,衣,2666,2024-06-27,
+924,支出,衣,7087,2024-10-16,Sample note for transaction ID 924
+925,支出,行,9439,2024-01-11,
+926,支出,行,1681,2024-05-14,
+927,收入,住,5209,2024-06-09,Sample note for transaction ID 927
+928,支出,行,869,2024-08-21,
+929,支出,食,1207,2024-07-19,
+930,收入,衣,4933,2024-08-21,Sample note for transaction ID 930
+931,收入,行,6666,2024-10-24,
+932,收入,食,1870,2024-03-24,Sample note for transaction ID 932
+933,收入,住,9194,2024-10-13,
+934,支出,行,3937,2024-01-04,Sample note for transaction ID 934
+935,支出,食,3949,2023-11-10,Sample note for transaction ID 935
+936,支出,行,4134,2024-06-19,Sample note for transaction ID 936
+937,支出,住,6719,2024-03-01,
+938,支出,衣,3049,2024-07-13,
+939,收入,衣,8426,2024-06-05,
+940,收入,食,6752,2024-06-04,Sample note for transaction ID 940
+941,收入,住,5793,2024-03-26,
+942,收入,行,3647,2023-12-29,Sample note for transaction ID 942
+943,支出,行,6887,2024-07-08,Sample note for transaction ID 943
+944,支出,食,985,2024-08-27,
+945,收入,食,7136,2024-10-06,Sample note for transaction ID 945
+946,支出,住,1970,2024-03-28,
+947,收入,住,7197,2024-02-06,
+948,收入,衣,7048,2024-09-24,Sample note for transaction ID 948
+949,支出,食,995,2024-03-10,
+950,支出,行,4490,2023-12-06,Sample note for transaction ID 950
+951,收入,食,4323,2024-10-03,Sample note for transaction ID 951
+952,收入,行,537,2024-02-29,
+953,支出,衣,7369,2024-10-06,Sample note for transaction ID 953
+954,支出,食,8361,2024-05-27,
+955,收入,住,6367,2024-08-29,
+956,支出,住,6654,2024-05-13,Sample note for transaction ID 956
+957,支出,食,7581,2024-02-05,
+958,收入,衣,6530,2024-05-11,Sample note for transaction ID 958
+959,支出,住,8857,2024-04-17,
+960,收入,行,9669,2024-09-17,
+961,支出,行,6102,2024-08-14,Sample note for transaction ID 961
+962,支出,食,7483,2023-11-03,
+963,收入,衣,4306,2024-02-27,
+964,收入,衣,6281,2024-05-22,
+965,支出,住,9817,2024-07-03,Sample note for transaction ID 965
+966,支出,住,2475,2024-08-26,
+967,收入,衣,9247,2024-04-15,
+968,收入,衣,3870,2024-06-12,
+969,支出,衣,4395,2024-08-02,Sample note for transaction ID 969
+970,收入,行,9144,2024-03-04,
+971,支出,食,9551,2024-01-12,Sample note for transaction ID 971
+972,支出,行,5980,2024-08-23,Sample note for transaction ID 972
+973,收入,衣,5067,2023-11-26,
+974,支出,行,1107,2024-09-04,
+975,收入,衣,3749,2024-03-24,
+976,支出,行,9385,2024-02-10,
+977,收入,食,8487,2024-10-24,Sample note for transaction ID 977
+978,收入,行,1832,2024-10-24,
+979,支出,食,7463,2024-02-04,
+980,支出,食,2148,2024-04-15,
+981,支出,衣,8337,2024-07-23,Sample note for transaction ID 981
+982,收入,行,763,2024-07-16,Sample note for transaction ID 982
+983,收入,行,2587,2024-09-24,Sample note for transaction ID 983
+984,支出,衣,6123,2024-06-25,Sample note for transaction ID 984
+985,支出,住,7258,2024-09-16,
+986,支出,住,7991,2023-12-17,Sample note for transaction ID 986
+987,支出,行,6650,2024-05-28,
+988,收入,行,5404,2024-09-08,Sample note for transaction ID 988
+989,收入,食,1292,2024-07-02,
+990,支出,衣,2699,2023-11-18,
+991,支出,住,6797,2024-02-26,Sample note for transaction ID 991
+992,支出,行,8696,2024-07-10,
+993,收入,住,5630,2023-12-10,
+994,支出,行,1342,2023-11-11,
+995,收入,衣,6724,2024-07-12,Sample note for transaction ID 995
+996,支出,衣,1482,2024-03-18,
+997,收入,行,4563,2024-08-30,Sample note for transaction ID 997
+998,支出,食,5808,2024-06-01,Sample note for transaction ID 998
+999,收入,食,4540,2024-02-09,Sample note for transaction ID 999
+1000,收入,行,136,2024-01-02,Sample note for transaction ID 1000
