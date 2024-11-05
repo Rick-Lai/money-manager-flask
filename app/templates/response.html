@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sorted Records</title>
+    <style>
+        /* 基本表格樣式 */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 8px;
+            border: 1px solid #ddd;
+            text-align: left;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+        /* 模態框樣式 */
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+        }
+        .modal-content {
+            background-color: #fff;
+            margin: 15% auto;
+            padding: 20px;
+            border: 1px solid #888;
+            width: 300px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Records Sorted by {{ request.path.split("=")[-1] }}</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Type</th>
+                <th>Category</th>
+                <th>Amount</th>
+                <th>Date</th>
+                <th>Note</th>
+                <th>Operation</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for record in records %}
+                <tr>
+                    <td>{{ record[0] }}</td>
+                    <td>{{ record[1] }}</td>
+                    <td>{{ record[2] }}</td>
+                    <td>{{ record[3] }} 元</td>
+                    <td>{{ record[4] }}</td>
+                    <td>{{ record[5] if record[5] else "-" }}</td>
+                    <td>
+                        <button type="button" onclick="showUpdateForm({{ record[0] }})">Update</button>
+                        <button type="button" onclick="deleteRecord({{ record[0] }})">Delete</button>
+                    </td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+    <!-- 彈出視窗 -->
+    <div id="updateModal" class="modal">
+        <div class="modal-content">
+            <h3>更新記錄</h3>
+            <form id="recordForm">
+                <label>收入/支出:</label><br>
+                <select id="transaction_type" name="transaction_type">
+                    <option value="">-- 選擇選項 --</option>
+                    <option value="收入">收入</option>
+                    <option value="支出">支出</option>
+                </select><br>
+    
+                <label>類別:</label><br>
+                <select id="category" name="category"><br>
+                    <option value="">-- 選擇選項 --</option>
+                    <option value="食">食</option>
+                    <option value="衣">衣</option>
+                    <option value="住">住</option>
+                    <option value="行">行</option>
+                </select><br>
+    
+                <label>花費:</label><br>
+                <input type="number" id="amount" name="amount"><br>
+    
+                <label>日期 (YYYY-MM-DD):</label><br>
+                <input type="date" id="transaction_date" name="transaction_date"><br>
+    
+                <label>備註:</label><br>
+                <input type="text" id="notes" name="notes"><br>
+                
+                <button type="button" onclick="updateRecord()">提交</button>
+                <button type="button" onclick="closeUpdateForm()">取消</button>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        let currentTransactionId = null;
+        
+        function showUpdateForm(transactionId) {
+            currentTransactionId = transactionId;
+            document.getElementById('updateModal').style.display = 'block';
+        }
+
+        function closeUpdateForm() {
+            document.getElementById('updateModal').style.display = 'none';
+            currentTransactionId = null;
+        }
+
+        function updateRecord() {
+            const data = {
+                transaction_type: document.getElementById('transaction_type').value,
+                category: document.getElementById('category').value,
+                amount: document.getElementById('amount').value,
+                transaction_date: document.getElementById('transaction_date').value,
+                notes: document.getElementById('notes').value,
+            };
+            const url = `/record/${currentTransactionId}`;
+            fetch(url, {
+                method: 'PUT',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(data),
+            }).then(response => {
+                if (response.ok) {
+                    closeUpdateForm();
+                    window.location.reload();
+                }
+            });
+        }
+
+        function deleteRecord(transactionId) {
+            const url = `/record/${transactionId}`;
+            fetch(url, {
+                method: 'DELETE'  
+            }).then(response => {
+                if (response.ok) {
+                    window.location.reload();
+                }
+            });
+        }
+    </script>
+</body>
+</html>
