@@ -7,10 +7,10 @@
 
 安裝
 ===
-'''sh
+```sh
 docker build -t money-manager .
-'''
-'''sh
+```
+```sh
 docker run -p 7000:7000 money-manager
-'''
+```
 用瀏覽器打開 http:/127.0.0.1:7000
